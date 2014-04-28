@@ -5,7 +5,6 @@
 	</FontSet>-->
 	<Style name="strassenabschnitte_style">
 		<Rule>
-			<Filter></Filter>
 			<LineSymbolizer>
 				<CssParameter name="stroke">#808080</CssParameter>
 				<CssParameter name="stroke-width">2</CssParameter>
