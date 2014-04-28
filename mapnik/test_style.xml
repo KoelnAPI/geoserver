@@ -21,7 +21,7 @@
             <Parameter name="dbname">koelnapi</Parameter>
             <Parameter name="user">koelnapi</Parameter>      
             <Parameter name="password">koelnapi</Parameter>
-            <Parameter name="table">(select the_geom as geometry, strasse as name from strassenabschnitte) as world</Parameter>
+            <Parameter name="table">strassenabschnitte</Parameter>
             <Parameter name="estimate_extent">false</Parameter>
             <Parameter name="extent">-180,-90,180,89.99</Parameter>
         </Datasource>
