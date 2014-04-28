@@ -23,7 +23,7 @@
             <Parameter name="password">koelnapi</Parameter>
             <Parameter name="table">strassenabschnitte</Parameter>
             <Parameter name="estimate_extent">false</Parameter>
-            <Parameter name="extent">-20037508.34,-20037508.34,20037508.34,20037508.34</Parameter>
+            <Parameter name="extent">6.77,50.82,7.17,51.09</Parameter>
         </Datasource>
     </Layer>
 </Map>
