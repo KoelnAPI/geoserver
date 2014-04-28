@@ -7,7 +7,7 @@ map_output = 'mymap.png'
 
 m = Map(1024, 1024)
 load_map(m, mapfile)
-bbox = (Envelope(6, 51, 8, 52))
+bbox = (Envelope(6.77, 50.82, 7.17, 51.09))
 
 m.zoom_to_box(bbox)
 print("Scale = ", m.scale())
