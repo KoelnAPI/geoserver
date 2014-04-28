@@ -23,8 +23,7 @@
             <Parameter name="password">koelnapi</Parameter>
             <Parameter name="table">strassenabschnitte</Parameter>
             <Parameter name="estimate_extent">false</Parameter>
-            <!-- only for WGS84 projection! <Parameter name="extent">6.77,50.82,7.17,51.09</Parameter>-->
-            <Parameter name="extent">752000,6591000,797500,6637000</Parameter>
+            <Parameter name="extent">-20037508.34,-20037508.34,20037508.34,20037508.34</Parameter>
         </Datasource>
     </Layer>
 </Map>
